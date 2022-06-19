@@ -1,0 +1,5 @@
+Python     3.9.6
+vk-api     1.9.6
+SQLAlchemy 1.4.26
+requests   2.26.0
+psycopg2   2.9.1
